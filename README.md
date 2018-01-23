@@ -1,4 +1,4 @@
-# A-magic-room-with-spheres
+# MismatchExperience_VR
 A magic room with spheres implemented in Unity, providing users with magical experience in VR
 Users can rotate their heads to look at the room in all directions
 
